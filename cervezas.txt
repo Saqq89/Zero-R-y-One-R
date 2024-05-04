@@ -1,0 +1,22 @@
+| Estudiante | Edad | Género   | Marca Favorita | Tipo de Cerveza | Precio   | Calificación | Prefiere |
+|------------|------|----------|----------------|-----------------|----------|--------------|----------|
+| 1          | 21   | Masculino| Corona         | Lager           | Moderado | 7            | Sí       |
+| 2          | 23   | Femenino | Heineken       | Lager           | Moderado | 8            | Sí       |
+| 3          | 20   | Masculino| Heineken       | Lager           | Moderado | 6            | No       |
+| 4          | 22   | Femenino | Corona         | Lager           | Moderado | 7            | Sí       |
+| 5          | 21   | Masculino| Corona         | Ale             | Moderado | 6            | Sí       |
+| 6          | 24   | Femenino | Heineken       | Ale             | Moderado | 8            | Sí       |
+| 7          | 20   | Masculino| Heineken       | Ale             | Moderado | 7            | No       |
+| 8          | 22   | Femenino | Corona         | Ale             | Moderado | 6            | No       |
+| 9          | 21   | Masculino| Heineken       | Lager           | Moderado | 7            | Sí       |
+| 10         | 23   | Femenino | Corona         | Lager           | Moderado | 8            | Sí       |
+| 11         | 20   | Masculino| Corona         | Lager           | Moderado | 7            | Sí       |
+| 12         | 22   | Femenino | Heineken       | Lager           | Moderado | 8            | No       |
+| 13         | 21   | Masculino| Heineken       | Ale             | Moderado | 7            | Sí       |
+| 14         | 23   | Femenino | Corona         | Ale             | Moderado | 6            | No       |
+| 15         | 20   | Masculino| Corona         | Ale             | Moderado | 8            | No       |
+| 16         | 22   | Femenino | Heineken       | Ale             | Moderado | 7            | Sí       |
+| 17         | 21   | Masculino| Heineken       | Lager           | Moderado | 6            | No       |
+| 18         | 23   | Femenino | Corona         | Lager           | Moderado | 8            | Sí       |
+| 19         | 20   | Masculino| Heineken       | Lager           | Moderado | 7            | Sí       |
+| 20         | 22   | Femenino | Corona         | Lager           | Moderado | 6            | Sí       |
