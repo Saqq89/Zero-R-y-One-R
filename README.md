@@ -1,5 +1,5 @@
 # Zero-R-y-One-R
-Codigo fuente de la implementación de los algoritmos para la clase de mineria de datos en CUCEI
+Codigo fuente de la implementación de los algoritmos de Zero Rule y One Rule para la clase de mineria de datos en CUCEI
 
 ## **Integrantes:**
 ### Lopez Rosales Cristian
